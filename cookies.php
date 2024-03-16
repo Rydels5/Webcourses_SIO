@@ -1,0 +1,1 @@
+<iframe src="gestion_cookies.pdf" width="100%" height="100%"></iframe>
